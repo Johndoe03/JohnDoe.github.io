@@ -20,7 +20,7 @@
 
 title: Hantao Wang
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://taotaoop.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Taotaoop
 linkedin_username: hantao-wang-923b6923b
 email: hantaowang31@gmail.com
